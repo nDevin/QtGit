@@ -8,7 +8,7 @@ Widget::Widget(QWidget *parent) :
     ui->setupUi(this);
 
 
-    std::string message = "第3次提交";
+    std::string message = "第4次提交";
 }
 
 Widget::~Widget()
