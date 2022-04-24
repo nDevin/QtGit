@@ -6,6 +6,9 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
+
+
+    std::string message = "第1次提交";
 }
 
 Widget::~Widget()
